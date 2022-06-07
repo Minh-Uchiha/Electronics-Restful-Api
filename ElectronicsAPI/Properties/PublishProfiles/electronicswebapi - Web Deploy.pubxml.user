@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdnCGNmKp+0S8XEjeMbFhwgAAAAACAAAAAAAQZgAAAAEAACAAAACCddh2yNRQA08hiIqhv7XwlcNW07ZW+VrGEeDvV9cUNgAAAAAOgAAAAAIAACAAAAAiKS8nY/RyI1sNDrKYNvM3zfLJ9FWOtgIoldO7l/xWAYAAAAC/MxHdwiTHXG3wUNwROTLwDGwcD9ELEjbGz6m9TxB5lHjMrQj8beZ43fHnZRYum0kgPbGw/zepxP+1bckQztLvz0TUIvOSThnZU8adS7U2A1vXrvBZupKL9c4HfIquI1JySZEE/82CLA5ftFyVfYoBYI/+MsTTzgKJVP4BpC8HeEAAAABxd5HM40kR6AjyDfRMdHqVom1D8LpD+yhuXcJYxMplDGat9noQjfQgw23wy7OunnWfTdeSD9W5L0IfYMOxRUSD</EncryptedPassword>
+    <History>True|2022-06-07T04:19:21.0101565Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="Electronics.DataAccess.Data.ApplicationDbContext">
+      <Value>Server=tcp:electronicsdatabaseserver.database.windows.net,1433%3bInitial Catalog=electronicsdatabase%3bPersist Security Info=False%3bUser ID=minhuchiha%3bPassword=Dragonyellow01%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
