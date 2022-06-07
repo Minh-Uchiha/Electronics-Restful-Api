@@ -1,5 +1,5 @@
 # Electronics-Restful-Api
-An API that supports multiple requests from client side to interact with database that stored electronics devices information
+An API that supports multiple requests from client side to interact with database storing electronics devices information
 ## API url: 
 https://electronicswebapi.azurewebsites.net
 
